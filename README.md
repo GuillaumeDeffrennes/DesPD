@@ -3,6 +3,7 @@ Machine learning descriptors for phase diagram prediction
 
 # Requirements
 Python >= 3.7
+
 pandas >= 1.2.5
 
 # Usage
