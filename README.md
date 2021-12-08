@@ -19,7 +19,7 @@ The underlying data are from the SGTE PURE database in its version 5.0 (Alan Din
 
 **The minimum and maximum temperatures are 300K and 3000K, respectively.**
 
-## Excess thermodynamic properties (CALPHAD extrapolation from the binaries)
+## Excess thermodynamic properties (CALPHAD extrapolations from the binaries)
 Descriptors are obtained from the binary interaction parameters assessed in various work (references can be found in "Binary_interaction_parameters.csv") based on the Muggianu formalism.
 
 **The elements currently supported are Al, Cu, Mg, Si, Zn.**
