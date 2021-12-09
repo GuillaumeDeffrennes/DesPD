@@ -1,5 +1,5 @@
 # DesPD
-Machine learning descriptors for phase diagram prediction
+Machine learning Descriptors for Phase Diagram prediction
 
 # Requirements
 Python >= 3.7
