@@ -14,7 +14,7 @@ For each point of interest, the script simply requires the composition of the el
 ## Thermodynamic properties
 Descriptors are obtained from the composition and the thermodynamic properties of the pure elements.
 
-The underlying data are from the SGTE PURE database in its version 5.0 (Alan Dinsdale, SGTE Data for Pure Elements, Calphad Vol 15(1991) pp. 317-425)
+The underlying data are from the SGTE PURE database in its version 5.0 (Alan Dinsdale, SGTE Data for Pure Elements, Calphad Vol 15(1991) pp. 317-425).
 
 **The elements currently supported are Al, Cu, Mg, Si, Zn.**
 
