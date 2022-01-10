@@ -7,7 +7,7 @@ Python >= 3.7
 pandas >= 1.2.5
 
 # Usage
-A detailed discussion can be found in: "G. Deffrennes, K. Terayama, T. Abe, R. Tamura, A machine learning-based classification approach for phase diagram prediction, Manuscript submitted for publication".
+A detailed discussion can be found in: "G. Deffrennes, K. Terayama, T. Abe, R. Tamura, A machine learning-based classification approach for phase diagram prediction, Manuscript submitted for publication. https://arxiv.org/abs/2201.01932".
 
 For each point of interest, the script simply requires the composition of the elements and the temperature (see the example input file for the formatting).
 
